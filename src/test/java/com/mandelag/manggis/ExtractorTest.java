@@ -15,7 +15,7 @@ import java.util.logging.Logger;
  *
  * @author Keenan Gebze (@mandelag)
  */
-public class ReaderExtractorTest {
+public class ExtractorTest {
 
     @Test
     public void extractTextTest() {
