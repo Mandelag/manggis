@@ -10,7 +10,7 @@ import java.util.logging.Logger;
  * Generalized version of InputStreamExtractor and ReaderExtractor.
  *
  * @author Keenan Mandela Gebze
- * @version 10 October 2018
+ * @version 20 October 2018
  */
 public class Marker {
 

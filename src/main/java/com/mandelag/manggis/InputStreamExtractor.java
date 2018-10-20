@@ -5,8 +5,10 @@ import java.io.InputStream;
 import java.io.Reader;
 
 /**
+ * Extractor tests.
  *
- * @author Keenan
+ * @author Keenan Mandela Gebze
+ * @version 20 October 2018
  */
 public class InputStreamExtractor {
     

@@ -13,8 +13,10 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
+ * Unit tests for the app.
  *
- * @author Keenan Gebze (@mandelag)
+ * @author Keenan Mandela Gebze
+ * @version 20 October 2018
  */
 public class ExtractorTest {
 
